@@ -17,5 +17,3 @@ ROS 2 (Jazzy), micro-ROS, Gazebo, SLAM Toolbox, Python, C++, Raspberry Pi, ESP32
 ## 📫 Reach Me
 - LinkedIn: [Selva Dinesh](https://www.linkedin.com/in/selva-dinesh-j-2964b6260)  
 - Email: selvadineshj1103@gmail.com  
-
-![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=SelvaDinesh2003&show_icons=true)

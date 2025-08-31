@@ -5,7 +5,6 @@
 I build and deploy ROS 2 robots — from micro-ROS teleop bots to SLAM in simulation and real-world robots.
 
 ## 🔭 Current Projects
-- `micro-ros-diff-drive-teleop` — micro-ROS (ESP32) teleop-controlled diff drive robot  
 - `ros2-slam-simulation` — SLAM (Gazebo + SLAM Toolbox) in simulation  
 - `ros2-slam-real-robot` — Real-world SLAM on Raspberry Pi + LiDAR  
 - `iot-fish-tank-monitor` — IoT-based fish tank monitoring system  

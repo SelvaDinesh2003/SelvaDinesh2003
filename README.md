@@ -1,4 +1,4 @@
-# 👋 Hi — I'm Selva Dinesh
+# Hi — I'm Selva Dinesh
 
 **Mechatronics Engineer • ROS 2 Developer (Jazzy) • IoT • micro-ROS**
 
